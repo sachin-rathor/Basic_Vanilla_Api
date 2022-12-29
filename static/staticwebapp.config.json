@@ -1,8 +1,8 @@
 {
   "routes": [
     {
-      "route": "/",
-      "rewrite": "/index2.html"
+      "route": "/api/HttpTrigger2",
+      "rewrite": "/api/HttpTrigger2"
     }
   ]
 }
