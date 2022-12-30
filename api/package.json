@@ -2,9 +2,9 @@
   "name": "",
   "version": "",
   "description": "",
+  "proxy": "/api/httptrigger",
   "scripts": {
     "test": "echo \"No tests yet...\""
   },
-  "author": "",
-  "proxy": "/api/httptrigger",
+  "author": ""
 }
