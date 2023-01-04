@@ -5,7 +5,7 @@
           "matchCondition": {
             "route": "/sachin"
           },
-          "backendUri": "https://7821609e-7f04-403a-b6c0-8ba8c6c4499c.azurewebsites.net/api/HttpTrigger"
+          "backendUri": "%BackendHost%/api/HttpTrigger"
         }
     }
 }
