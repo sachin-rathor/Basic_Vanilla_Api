@@ -5,7 +5,7 @@
           "matchCondition": {
             "route": "/sachin"
           },
-          "backendUri": "https://proxytest-6.azurewebsites.net/working"
+          "backendUri": "https://proxytest-5.azurewebsites.net/api/HttpTrigger1?code=qA2bSQBt7qm8gOKhr1SJbLC6q8G4V6_MgCQH_OkxOIt2AzFuikkyFw=="
         }
     }
 }
